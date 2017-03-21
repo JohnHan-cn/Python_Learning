@@ -1,0 +1,117 @@
+Tue Mar 21 11:27:27 2017
+Fetch
+Tue Mar 21 11:27:43 2017
+Fetch
+Tue Mar 21 11:31:07 2017
+Fetch
+Tue Mar 21 11:31:34 2017
+Update
+Tue Mar 21 11:32:15 2017
+Update
+Tue Mar 21 11:34:48 2017
+Fetch
+Tue Mar 21 13:15:18 2017
+Fetch
+Tue Mar 21 13:15:19 2017
+Fetch
+Tue Mar 21 13:15:26 2017
+Fetch
+Tue Mar 21 13:17:54 2017
+Fetch
+Tue Mar 21 13:25:04 2017
+Fetch
+[1, 2, 2, 3]Tue Mar 21 13:37:05 2017
+Fetch
+[1, 2, 2, 3]Tue Mar 21 13:38:00 2017
+Fetch
+[1, 2, 2, 3]Tue Mar 21 13:40:03 2017
+Fetch
+[1, 2, 2, 3]Tue Mar 21 13:40:04 2017
+Fetch
+[1, 2, 2, 3]Tue Mar 21 13:48:28 2017
+Fetch
+bob
+Tue Mar 21 13:48:59 2017
+Fetch
+john
+Tue Mar 21 13:50:36 2017
+Fetch
+john
+'?'
+'?'
+'?'
+'?'
+Tue Mar 21 14:12:22 2017
+Fetch
+john
+'?'
+'?'
+'?'
+'?'
+Tue Mar 21 14:12:29 2017
+Fetch
+bob
+'?'
+'?'
+'?'
+'?'
+Tue Mar 21 14:12:58 2017
+Fetch
+bob
+'?'
+'?'
+'?'
+'?'
+Tue Mar 21 14:13:41 2017
+Fetch
+bob
+Tue Mar 21 16:09:22 2017
+'Tom'
+Tue Mar 21 16:12:11 2017
+'Tom'
+Tue Mar 21 16:19:51 2017
+'Tom'
+Tue Mar 21 16:26:47 2017
+'Tom'
+Tue Mar 21 16:26:47 2017
+50
+Tue Mar 21 16:26:47 2017
+None
+Tue Mar 21 16:26:47 2017
+10
+Tue Mar 21 16:26:58 2017
+'Tom'
+Tue Mar 21 16:26:58 2017
+50
+Tue Mar 21 16:26:58 2017
+None
+Tue Mar 21 16:26:58 2017
+10000
+Tue Mar 21 16:27:20 2017
+'Tom'
+Tue Mar 21 16:27:20 2017
+50
+Tue Mar 21 16:27:20 2017
+None
+Tue Mar 21 16:27:20 2017
+10000*1.1
+Tue Mar 21 16:27:35 2017
+'Tom*2'
+Tue Mar 21 16:27:35 2017
+50
+Tue Mar 21 16:27:35 2017
+None
+Tue Mar 21 16:27:35 2017
+11000.0
+Tue Mar 21 16:28:06 2017
+'Tom zhang'
+Tue Mar 21 16:28:06 2017
+50
+Tue Mar 21 16:28:06 2017
+None
+Tue Mar 21 16:28:06 2017
+11000.0
+Tue Mar 21 16:29:34 2017
+'John Han'
+Tue Mar 21 16:38:58 2017
+'John Han'
